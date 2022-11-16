@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(224, 224, 224);
+}
+
+h1 {
+    text-align: center;
+}
+
+.Firstbox {
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 10px grey;
+    padding: 15px;
+}
+
+h3 {
+    color: dimgray;
+    text-align: left;
+}
+
+hr {
+    width: 500px;
+}
+
+button {
+    border-radius: 12px;
+    border: hidden;
+    background-color: maroon;
+    color: white;
+    padding: 8px;
+}
+
+.newname {
+    border: dashed;
+    text-align: center;
+    color: gray;
+    border-color: darkgray;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    padding: 10px;
+}
